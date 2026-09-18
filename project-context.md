@@ -39,3 +39,6 @@
 - 2026-09-19: local build generated 34 indexable routes and 36 HTML files; the checker passed metadata, links, both exact Store identities, `keep-all`, equal marketplace frames and stale-content rejection.
 - 2026-09-19: local HTTP QA returned 200 for all 34 sitemap routes and five key assets; an unknown route returned 404.
 - 2026-09-19: live Store recheck returned Google Play 200 and Apple bundle `app.mcyj.examprep.kor0241`, track ID `6797330142` in KR, US and GB.
+- 2026-09-19: GitHub Pages workflow run `35365268031` completed successfully.
+- 2026-09-19: production QA returned 200 for all 34 sitemap routes and five key assets; an unknown route returned 404.
+- 2026-09-19: production CSS contains global `word-break: keep-all` and the shared 194 × 75 px marketplace frame; the Korean home contains both exact public Store links.
